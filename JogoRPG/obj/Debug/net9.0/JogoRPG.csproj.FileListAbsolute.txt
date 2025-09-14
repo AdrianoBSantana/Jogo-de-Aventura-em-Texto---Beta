@@ -1,0 +1,14 @@
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\bin\Debug\net9.0\JogoRPG.exe
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\bin\Debug\net9.0\JogoRPG.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\bin\Debug\net9.0\JogoRPG.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\bin\Debug\net9.0\JogoRPG.dll
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\bin\Debug\net9.0\JogoRPG.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\obj\Debug\net9.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\obj\Debug\net9.0\JogoRPG.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\obj\Debug\net9.0\JogoRPG.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\obj\Debug\net9.0\JogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\obj\Debug\net9.0\JogoRPG.dll
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\obj\Debug\net9.0\refint\JogoRPG.dll
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\obj\Debug\net9.0\JogoRPG.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\obj\Debug\net9.0\JogoRPG.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\PROJETOS\c#\Jogo de Aventura - RPG\JogoRPG\obj\Debug\net9.0\ref\JogoRPG.dll
